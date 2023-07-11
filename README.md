@@ -1,4 +1,4 @@
-# Stock-portfolio-
+# Construction of optimal portfolio of stock in Python 
 Construct an optimal portfolio of stocks: National Bank of Canada, Air Canada, Suncor Energy and TELUS Corporation
 In this project I identified four stocks of interest, listed on the Toronto stock exchange.
 The visualisations of the price movements, the annual returns and annualized returns are provided. 
